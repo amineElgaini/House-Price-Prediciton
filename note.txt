@@ -1,4 +1,0 @@
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter joblib streamlit
-pip freeze > requirements.txt
------------------------------------------
-garage problem
